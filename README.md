@@ -1,4 +1,6 @@
-Data cleaning in pandas and NumPy, using matplotlib to visualize data. This project will analyze seasonal trends in animal adoptions. I will investigate whether adoption rates for cats and dogs fluctuate significantly during different months or seasons of the year.
+Data cleaning in pandas and NumPy, using matplotlib to visualize data. This project will analyze seasonal trends in animal adoptions. I will investigate whether adoption rates for cats and dogs fluctuate significantly during different months or seasons of the year. Please open the Presentation to view the insights uncovered.
+
+Presentation: BSAN 360 Sophia Senh Analyzing Seasonal Trends in Shelter Adoptions (1).pdf
 
 Dashboard: https://public.tableau.com/views/AustinAnimalCenterOutcomes10012013to05052025/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
